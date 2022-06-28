@@ -1,0 +1,7 @@
+Public dataset London Bicycle Hires
+Additional details
+    Type: Datasets
+    Category: Encyclopedic, Public safety
+    Dataset source: https://data.london.gov.uk 
+    Cloud service: BigQuery
+    Expected update frequency: Annually  
